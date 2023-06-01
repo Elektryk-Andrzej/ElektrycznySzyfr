@@ -1,8 +1,5 @@
-# ElektrycznySzyfr
-Prosty szyfr o nie prostej konstrukcji.
+# ElectricCipher
+Simple cipher, which isn't able bo be read by some random person (that's the point of ciphers)
 
-Nwm co tu napisać, jak coś chcesz to pisz na dc
-
-### Polish only - If you want an english version, contact me via Discord
-
+Questions? Contact me on Discord
 # Elektryk_Andrzej#0777
